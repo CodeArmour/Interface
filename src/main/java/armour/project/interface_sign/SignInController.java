@@ -3,7 +3,7 @@ package armour.project.interface_sign;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class SignInController {
     @FXML
     private Label welcomeText;
 

@@ -58,7 +58,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>armour.project.interface_sign/armour.project.interface_sign.HelloApplication</mainClass>
+              <mainClass>armour.project.interface_sign/armour.project.interface_sign.SignIn</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
